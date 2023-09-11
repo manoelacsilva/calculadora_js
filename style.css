@@ -60,8 +60,9 @@
     width: 108px;
 }
 
-.botao-igual {
+.botao-mais {
     height: 108px;
+    background-color: #192A51;
 }
 
 .footer {
