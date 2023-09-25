@@ -38,6 +38,7 @@
     border: none;
     color: #fff;
     margin: 3px;
+    border-radius: 6px;
 }
 
 .botao:hover {
@@ -54,6 +55,7 @@
     display: grid;
     align-items: center;
     text-align: right;
+    border-radius: 6px;
 
     overflow-x: auto;
 }
